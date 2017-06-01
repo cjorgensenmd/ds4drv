@@ -3,7 +3,7 @@
 #include <set>
 #include <memory>
 
-#include <boost/circular_buffer.hpp>
+#include <boost\circular_buffer.hpp>
 
 #include <pulse/context.h>
 #include <pulse/thread-mainloop.h>
